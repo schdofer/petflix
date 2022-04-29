@@ -95,6 +95,10 @@ header nav a:hover {
     margin-right: 8px;
 }
 
+.carousel {
+    margin-top: 5px;
+}
+
 .box-img-carousel {
     height: 100%;
     width: 100%;
