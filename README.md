@@ -3,6 +3,17 @@ Petflix is ​​a Streaming service focused on the pet world!
 
 <br />
 
+### **Used tools to development the project**
+----
+1. VSCode
+    - Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.
+    - [https://code.visualstudio.com/](https://code.visualstudio.com/)
+2. GIMP
+    - GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems.
+    - [https://www.gimp.org/](https://www.gimp.org/)
+
+<br />
+
 ### **Used VSCode extensions**
 ----
 1. **Live Server**
@@ -14,7 +25,7 @@ Petflix is ​​a Streaming service focused on the pet world!
 
 <br />
 
-### **Sources**
+### **Media Sources**
 ----
 1. Images used in the project
     - [https://www.themoviedb.org/](https://www.themoviedb.org/)
