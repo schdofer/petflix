@@ -12,12 +12,14 @@
     box-sizing: border-box;
 }
 
+/* Base */
 body {
     background: var(--preto);
     font-family: 'Times New Roman', Times, serif;
+    color: white;
 }
 
-header .container {
+header .wrapper {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -39,4 +41,26 @@ header nav a {
 
 header nav a:hover {
     color: #fff;
+}
+
+/* Banner */
+.banner {    
+    font-size: 16px;
+    /* Cria overlay sobre imagem de fundo */
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('../../assets/img/marley-e-eu/capa-1920x1080.jpg');
+    height: 400px;
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.banner .title {
+    font-size: 60px;
+}
+
+.banner .synopsis {
+    margin-bottom: 80px;
 }
