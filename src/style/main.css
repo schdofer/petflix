@@ -58,9 +58,32 @@ header nav a:hover {
 }
 
 .banner .title {
-    font-size: 60px;
+    margin-top: 5%;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .banner .synopsis {
-    margin-bottom: 80px;
+    margin-bottom: 40px;
+    width: 50%;
+}
+
+.banner .button-banner {
+    background-color: rgba(0,0,0,.50);
+    border: none;
+    color: white;
+    padding: 15px;
+    margin-right: 15px;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.banner .button-banner:hover {
+    background-color: white;
+    color: black;
+    transition: .4s ease all;
+}
+
+.banner .button-banner i {
+    margin-right: 8px;
 }

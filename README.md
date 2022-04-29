@@ -18,7 +18,8 @@ Petflix is ​​a Streaming service focused on the pet world!
 ----
 1. Images used in the project
     - [https://www.themoviedb.org/](https://www.themoviedb.org/)
-
+2. Icons used in the project
+    - [https://fontawesome.com/](https://fontawesome.com/)
 <br />
 
 
